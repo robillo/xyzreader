@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc7ad21ab3f69d9aaf7c114f04af65a9db954a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robinkamboj/Desktop/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_c1d110bbb689dc8ed248d633f2d1b9ecc2c3813f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robinkamboj/.android/build-cache/a75c3c3343baa63c2e3fdbac2a33a4fcc9c4a475/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a7cabc1bedaa63ecfd5d7c1e778b8c19595f566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robinkamboj/.android/build-cache/f773932eeb46c2f546f02bcfb9e3ee069d249a95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e7f2cd2629f2917a7c2f73445ddd22e25f19b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robinkamboj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_0770602c59c53ac55508bf41c51bb941fe8725d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e65699b131167828373ea6ce8b7e37c2e055f5d">
+        <dex dex="/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b93ffde4ef2820f31f674ee17663dc85798aabe2/classes.dex" />
+    </item>
+
+</items>

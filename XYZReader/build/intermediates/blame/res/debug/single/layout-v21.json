@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/robinkamboj/.android/build-cache/52fbd5b35062418fb1a72a796e8666db0d77420e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/robinkamboj/.android/build-cache/52fbd5b35062418fb1a72a796e8666db0d77420e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/robinkamboj/.android/build-cache/52fbd5b35062418fb1a72a796e8666db0d77420e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/robinkamboj/.android/build-cache/52fbd5b35062418fb1a72a796e8666db0d77420e/output/res/layout-v21/notification_action.xml"
+    }
+]

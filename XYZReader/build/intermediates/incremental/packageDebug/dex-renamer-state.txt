@@ -1,0 +1,7 @@
+#Sun Mar 26 12:52:50 IST 2017
+base.0=/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc7ad21ab3f69d9aaf7c114f04af65a9db954a3c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b93ffde4ef2820f31f674ee17663dc85798aabe2/classes.dex
+base.1=/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b93ffde4ef2820f31f674ee17663dc85798aabe2
+file.0=/Users/robinkamboj/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc7ad21ab3f69d9aaf7c114f04af65a9db954a3c/classes.dex
